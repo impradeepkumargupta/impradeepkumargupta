@@ -1,4 +1,4 @@
-Cloud & DevOps Engineer @ Ericsson | Google Cloud (GCP) | AWS | Kubernetes | Terraform | Docker | CI/CD | Linux | Python | Bash
+Cloud & DevOps Engineer @Ericsson | Google Cloud (GCP) | AWS | Kubernetes | Terraform | Docker | CI/CD | Linux | Python | Bash
 
 # Pradeep Gupta
 
