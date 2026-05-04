@@ -1,43 +1,25 @@
-Cloud & DevOps Engineer @Ericsson | Google Cloud (GCP) | AWS | Kubernetes | Terraform | Docker | CI/CD | Linux | Python
+Cloud & Platform Engineer specializing in Kubernetes, Terraform, CI/CD, and Production Infrastructure on Google Cloud
 
-# Pradeep Gupta
+Cloud & DevOps Engineer at Ericsson with experience managing production-grade infrastructure, Kubernetes workloads, CI/CD pipelines, observability systems, and Linux-based cloud environments.
 
-## Profile
+Certified Google Cloud Professional Cloud Architect with hands-on experience in automation, container orchestration, monitoring, and infrastructure as code.
 
-I work on production-grade, microservices-based systems with a strong focus on automation, reliability, and scalable infrastructure.  
-My experience spans CI/CD pipelines, container orchestration, cloud platforms, monitoring, and Linux system engineering.
+Currently focused on:
 
-I am certified as a **Google Cloud Professional Cloud Architect** and currently exploring **DevSecOps practices and GenAI integrations** within DevOps workflows.
+Platform Engineering
+DevSecOps
+Kubernetes reliability
+AI/LLM integrations in DevOps workflows
+Scalable cloud-native systems
 
----
+Key Highlights
 
-## Core Skills
-
-- **Cloud & Platforms:** Google Cloud Platform (GCP), AWS (basic)
-- **Containers & Orchestration:** Docker, Kubernetes (GKE)
-- **CI/CD & Automation:** Jenkins, GitHub Actions, Git, Terraform, Ansible
-- **Programming & Scripting:** Python, Bash
-- **Monitoring & Observability:** ELK Stack, Grafana, Zabbix
-- **Operating Systems:** Linux (RHEL)
-- **Security:** Static code analysis, security scanning, OWASP, Trivy/Snyk (exposure)
-
----
-
-## Selected Work
-
-### MITO – Management of IT Operations
-A production-grade, cloud-native microservices platform deployed on Google Cloud Platform.
-
-**Technologies:** Docker, Kubernetes, Jenkins, ELK, Grafana, Zabbix, Linux  
-Repository: https://github.com/Aaproxyy/MITO
-
----
-
-## Certifications
-
-- Google Cloud Certified – **Professional Cloud Architect** (2025–2027)
-
----
+* Automated CI/CD workflows using Jenkins and GitHub Actions
+* Managed Kubernetes-based microservices environments on GCP
+* Built monitoring dashboards using Grafana, ELK, and Zabbix
+* Worked on Linux production systems and operational troubleshooting
+* Implemented Infrastructure as Code using Terraform
+* Integrated containerized workloads using Docker and Kubernetes
 
 ## Contact
 
