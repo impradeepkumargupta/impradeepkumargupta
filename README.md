@@ -46,13 +46,6 @@ Google Cloud Certified Professional Cloud Architect, with hands-on experience in
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### GitHub stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=impradeepkumargupta&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=impradeepkumargupta&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
-</div>
-
 ### Contact
 
 - **Portfolio:** [impradeepkumargupta.github.io](https://impradeepkumargupta.github.io)
