@@ -49,8 +49,8 @@ Google Cloud Certified Professional Cloud Architect, with hands-on experience in
 ### GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=impradeepkumargupta&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=impradeepkumargupta&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=impradeepkumargupta&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=impradeepkumargupta&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
 </div>
 
 ### Contact
