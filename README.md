@@ -14,24 +14,29 @@
 
 ### About
 
-Cloud & DevOps Engineer at Ericsson, building and operating production-grade infrastructure for a telecom-scale platform — Kubernetes workloads, Terraform-managed GCP infrastructure, CI/CD pipelines, and full-stack observability across Linux environments.
+Cloud & DevOps Engineer at Ericsson, building, automating, and operating production-grade infrastructure for telecom-scale platforms. Experienced in Kubernetes, Google Cloud Platform (GCP), Terraform, CI/CD automation, and full-stack observability across Linux-based production environments.
 
-Google Cloud Certified Professional Cloud Architect, with hands-on experience in automation, container orchestration, monitoring, and infrastructure as code.
+Google Cloud Certified Professional Cloud Architect with hands-on expertise in cloud infrastructure, infrastructure as code, container orchestration, automation, monitoring, and cloud-native platform operations.
 
 **Currently focused on:**
-- Platform engineering and Kubernetes reliability
-- DevSecOps practices
-- Scalable, cloud-native infrastructure
-- Exploring AI/LLM integrations in DevOps workflows
 
-### Key highlights
+* Cloud Infrastructure Engineering
+* Platform Engineering and Kubernetes reliability
+* DevSecOps and secure software delivery
+* Infrastructure as Code (Terraform)
+* CI/CD automation and deployment strategies
+* Cloud-native architecture and observability
 
-- Operate production Kubernetes clusters and containerized workloads on GCP
-- Design and provision infrastructure as code using Terraform
-- Build and maintain CI/CD pipelines with Jenkins to automate deployment workflows
-- Run full-stack observability with ELK Stack and Zabbix
-- Administer Linux (RHEL) systems and highly-available MySQL databases
-- Write Python and Bash automation to reduce manual operational work
+### Key Highlights
+
+* Manage and operate production Kubernetes clusters and containerized workloads on Google Cloud Platform (GCP)
+* Design, provision, and manage cloud infrastructure using Terraform
+* Build and maintain CI/CD pipelines with Jenkins to automate build, testing, and deployment workflows
+* Implement and manage end-to-end observability using the ELK Stack and Zabbix
+* Administer Linux (RHEL) systems and highly available MySQL databases in production environments
+* Develop Python and Bash automation to streamline operational tasks and improve platform efficiency
+* Troubleshoot complex production issues across cloud infrastructure, Kubernetes, Linux, networking, and databases
+* Collaborate with development and operations teams to improve platform reliability, scalability, security, and deployment velocity
 
 ### Tech stack
 
