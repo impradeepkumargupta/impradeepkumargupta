@@ -2,12 +2,6 @@
 
 # Pradeep Gupta
 
-**Cloud & DevOps Engineer** — Kubernetes · Terraform · CI/CD · Google Cloud
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-impradeepkumargupta.github.io-6d8dff?style=flat-square)](https://impradeepkumargupta.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-impradeepkumargupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impradeepkumargupta)
-[![Email](https://img.shields.io/badge/Email-impradeepkumargupta%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:impradeepkumargupta@gmail.com)
-
 </div>
 
 ---
