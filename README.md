@@ -1,8 +1,8 @@
 # Pradeep Kumar Gupta
 
-## Cloud and DevOps Engineer | GCP | GKE | Kubernetes
+## Cloud Platform and DevOps Engineer | GCP | GKE
 
-I am a Cloud and DevOps Engineer at Ericsson with 3+ years of experience working with cloud infrastructure, container platforms, automation, CI/CD and Linux systems.
+I am a Cloud and DevOps Engineer at Ericsson with 4+ years of experience working with cloud infrastructure, container platforms, automation, CI/CD and Linux systems.
 
 My primary expertise is in Google Cloud Platform, Google Kubernetes Engine, Docker, Git, GitHub, Linux administration, Terraform and production infrastructure operations. I focus on building reliable, repeatable and maintainable platforms that help engineering teams deliver software safely and efficiently.
 
@@ -11,7 +11,7 @@ I am also developing deeper capabilities in platform engineering, DevSecOps, clo
 ## Professional Profile
 
 * Cloud and DevOps Engineer at Ericsson
-* 3+ years of professional experience in cloud and infrastructure engineering
+* 4+ years of professional experience in cloud and infrastructure engineering
 * Primary cloud experience with Google Cloud Platform and Google Kubernetes Engine
 * Hands-on experience with Kubernetes, Docker, Docker Swarm and containerized workloads
 * Infrastructure as Code using Terraform
@@ -70,7 +70,7 @@ I work on infrastructure and platforms that improve:
 
 ### Ericsson — DevOps and Cloud Engineer
 
-**February 2023 — Present | Delhi, India**
+**February 2023 — Present | Gurugram, India**
 
 * Designed, implemented and maintained cloud automation solutions across production Kubernetes environments on Google Cloud.
 * Provisioned and managed cloud infrastructure using Terraform and Ansible.
@@ -94,7 +94,7 @@ I work on infrastructure and platforms that improve:
 ## Certifications and Achievements
 
 * Google Cloud Professional Cloud Architect
-* COMPEX Merit Scholarship — All Nepal Rank 66; full scholarship awarded by the Embassy of India, Nepal
+* COMPEX Merit Scholarship — full scholarship awarded by EdCIL India, Embassy of India, Nepal
 * IELTS Overall Band Score: 7.0
 
 ## Education
