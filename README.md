@@ -1,6 +1,6 @@
 # Pradeep Kumar Gupta
 
-## Cloud and DevOps Engineer | GCP | GKE | Kubernetes | Terraform | Linux
+## Cloud and DevOps Engineer | GCP | GKE | Kubernetes
 
 I am a Cloud and DevOps Engineer at Ericsson with 3+ years of experience working with cloud infrastructure, container platforms, automation, CI/CD and Linux systems.
 
