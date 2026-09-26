@@ -2,14 +2,14 @@
 
 ## Cloud Platform and DevOps Engineer | GCP | GKE
 
-I am a Cloud and DevOps Engineer at Ericsson with ~4 years of experience working with cloud infrastructure, container platforms, automation, CI/CD and Linux systems.
+I am a Cloud and DevOps Engineer at Ericsson with 4+ years of experience working with cloud infrastructure, container platforms, automation, CI/CD and Linux systems.
 
 My primary expertise is in Google Cloud Platform, Google Kubernetes Engine, Docker, Git, GitHub, Linux administration, Terraform and production infrastructure operations. I focus on building reliable, repeatable and maintainable platforms that help engineering teams deliver software safely and efficiently.
 
 ## Professional Profile
 
 * Cloud and DevOps Engineer at Ericsson
-* ~4 years of professional experience in cloud and infrastructure engineering
+* 4+ years of professional experience in cloud and infrastructure engineering
 * Primary cloud experience with Google Cloud Platform and Google Kubernetes Engine
 * Operate a telecom-grade platform serving 1,000+ customer nodes and 100+ production microservices
 * Hands-on experience with Kubernetes, Docker, Docker Swarm and containerized workloads
@@ -109,7 +109,6 @@ CGPA: **7.92 / 10**
 * GKE and Kubernetes platform engineering
 * Terraform-based infrastructure automation
 * AWS (targeting Solutions Architect Associate)
-* DevSecOps and cloud security
 * Advanced CI/CD and GitOps practices
 * Cloud-native observability and reliability engineering
 * AI-enabled infrastructure automation, platform operations and MLOps foundations
