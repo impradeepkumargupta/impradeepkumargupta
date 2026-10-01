@@ -27,73 +27,16 @@ My primary focus is Google Cloud Platform (GCP), Google Kubernetes Engine (GKE),
 
 ## Core Technical Skills
 
-### Cloud
-- Google Cloud Platform (GCP)
-- Google Kubernetes Engine (GKE)
-- Compute Engine
-- Cloud SQL
-- Cloud Storage
-- Pub/Sub
-- BigQuery
-- Cloud Functions
-- Cloud Monitoring
-- IAM
-- Cloud networking
-
-### Containers and Kubernetes
-- Kubernetes
-- GKE
-- Docker
-- Docker Compose
-- Docker Swarm
-- Helm
-- Containerized application deployment
-
-### Infrastructure as Code and Automation
-- Terraform
-- Ansible
-- Infrastructure as Code (IaC)
-- Python
-- Bash / Shell scripting
-- Infrastructure automation
-
-### CI/CD and Source Control: 
-- Git,GitHub
-- GitHub Actions
-- CI/CD workflows
-- Git-based delivery workflows
-- GitOps fundamentals
-
-### Observability and Operations
-- Elasticsearch
-- Logstash
-- Kibana
-- ELK Stack
-- Grafana
-- Zabbix
-- Monitoring
-- Logging
-- Alerting
-- Incident analysis
-- Production troubleshooting
-
-### Systems and Networking
-- Linux
-- RHEL
-- TCP/IP
-- DNS
-- HTTP
-- Networking
-- Filesystem administration
-- Process and package management
-- System troubleshooting
-
-### Security
-- DevSecOps practices
-- Security validation in CI/CD
-- IAM
-- Least-privilege principles
-- Secure software delivery fundamentals
+| Domain | Technologies & Capabilities |
+|---|---|
+| **Cloud Platforms** | **GCP**, GKE, Compute Engine, Cloud SQL, Cloud Storage, Pub/Sub, BigQuery, Cloud Functions, Cloud Monitoring, IAM, Cloud Networking |
+| **Containers & Orchestration** | **Kubernetes**, GKE, Docker, Docker Compose, Docker Swarm, Helm, Containerized Application Deployment |
+| **Infrastructure as Code** | **Terraform**, Ansible, Infrastructure as Code (IaC), Infrastructure Automation, Configuration Management |
+| **CI/CD & Source Control** | **Git**, GitHub, GitHub Actions, CI/CD, Git-based Delivery Workflows, GitOps Fundamentals |
+| **Observability & Operations** | **ELK Stack**, Elasticsearch, Logstash, Kibana, Grafana, Zabbix, Monitoring, Logging, Alerting, Incident Analysis, Production Troubleshooting |
+| **Systems & Networking** | **Linux**, RHEL, TCP/IP, DNS, HTTP, Networking, Filesystem Administration, Process & Package Management, System Troubleshooting |
+| **Programming & Automation** | **Python**, Bash/Shell Scripting, Operational Automation, Deployment Automation |
+| **Security** | DevSecOps Practices, Security Validation in CI/CD, IAM, Least-Privilege Principles, Secure Software Delivery |
 
 ### Additional Knowledge
 - Amazon Web Services (AWS) fundamentals
