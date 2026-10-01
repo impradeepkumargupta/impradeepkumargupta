@@ -4,7 +4,7 @@
 
 **GCP | GKE | Kubernetes | Terraform | CI/CD | Linux | Observability**
 
-Cloud Platform and DevOps Engineer at Ericsson with 3+ years of professional experience working with production-grade cloud infrastructure, Kubernetes platforms, infrastructure as code, CI/CD, Linux systems, automation, and observability.
+Cloud Platform and DevOps Engineer at Ericsson with 4+ years of professional experience working with production-grade cloud infrastructure, Kubernetes platforms, infrastructure as code, CI/CD, Linux systems, automation, and observability.
 
 My primary focus is Google Cloud Platform (GCP), Google Kubernetes Engine (GKE), Kubernetes, Terraform, Docker, Linux/RHEL, Python, Bash, and production infrastructure operations.
 
@@ -57,9 +57,8 @@ My primary focus is Google Cloud Platform (GCP), Google Kubernetes Engine (GKE),
 - Bash / Shell scripting
 - Infrastructure automation
 
-### CI/CD and Source Control
-- Git
-- GitHub
+### CI/CD and Source Control: 
+- Git,GitHub
 - GitHub Actions
 - CI/CD workflows
 - Git-based delivery workflows
@@ -101,18 +100,6 @@ My primary focus is Google Cloud Platform (GCP), Google Kubernetes Engine (GKE),
 - MySQL operational support
 - Cloud-native architecture fundamentals
 
-## Professional Focus
-
-I focus on building and operating infrastructure that improves:
-
-- Reliability and availability
-- Scalability and performance
-- Deployment consistency
-- Operational efficiency
-- Observability and incident response
-- Infrastructure repeatability
-- Automation and reduction of repetitive operational work
-- Security validation in delivery workflows
 
 ## Selected Engineering Impact
 
@@ -142,23 +129,6 @@ Vellore Institute of Technology, India
 - IELTS Academic: Overall Band 7.0
 - Open to Cloud Platform, Platform Engineering, Cloud, DevOps, and reliability-focused infrastructure opportunities.
 - Open to international remote opportunities, relocation, and employer-sponsored roles where available.
-
-## Current Areas of Development
-
-- Advanced Google Cloud architecture and platform design
-- GKE and Kubernetes platform engineering
-- Terraform-based infrastructure automation
-- Advanced CI/CD and GitOps practices
-- Cloud-native observability and reliability engineering
-- AWS cloud fundamentals
-- AI-enabled infrastructure automation and platform operations
-
-## Engineering Principles
-
-- Automate repeatable work.
-- Prefer reliable defaults and controlled change.
-- Build platforms that are easier to operate.
-- Improve delivery speed without compromising reliability or security.
 
 ## Links
 
