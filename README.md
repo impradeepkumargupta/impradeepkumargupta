@@ -40,7 +40,7 @@ My primary focus is Google Cloud Platform (GCP), Google Kubernetes Engine (GKE),
 
 ### Additional Knowledge
 - Amazon Web Services (AWS) fundamentals
-- MySQL operational support
+- MySQL 
 - Cloud-native architecture fundamentals
 
 
