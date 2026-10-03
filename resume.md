@@ -69,4 +69,4 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 
 ### ACHIEVEMENTS
 
-- **COMPEX Merit Scholarship** — Full scholarship awarded by the EdCIL, COMPEX Scholarship, Embassy of India, Kathmandu, Nepal for undergraduate studies in India.
+- **COMPEX Merit Scholarship** — Full scholarship awarded by the EdCIL and Embassy of India, Kathmandu, Nepal for undergraduate studies in India.
