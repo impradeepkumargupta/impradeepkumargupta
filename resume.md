@@ -48,6 +48,7 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 ### CERTIFICATIONS
 
 **Google Cloud — Professional Cloud Architect** — [Google Cloud Certification](https://www.credly.com/badges/7b92f87b-9654-437b-aee3-d9dad3865bf9)
+
 ---
 
 ### EDUCATION
