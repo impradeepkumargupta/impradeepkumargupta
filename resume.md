@@ -69,4 +69,4 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 
 ### ACHIEVEMENTS
 
-- **COMPEX Merit Scholarship** — All Nepal Rank 66. Full scholarship awarded by the Embassy of India, Nepal for undergraduate studies in India.
+- **COMPEX Merit Scholarship** — Full scholarship awarded by the EdCIL, COMPEX Scholarship, Embassy of India, Kathmandu, Nepal for undergraduate studies in India.
