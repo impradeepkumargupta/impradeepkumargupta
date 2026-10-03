@@ -2,7 +2,7 @@
 
 # PRADEEP KUMAR GUPTA
 
-**Cloud and DevOps Engineer**
+**Cloud Platform and DevOps Engineer**
 
 Gurugram, India&nbsp; | &nbsp;+91 8604932809&nbsp; | &nbsp;[impradeepkumargupta@gmail.com](mailto:impradeepkumargupta@gmail.com)&nbsp; | &nbsp;[LinkedIn](https://www.linkedin.com/in/impradeepkumargupta)&nbsp; | &nbsp;[GitHub](https://github.com/impradeepkumargupta)&nbsp; | &nbsp;[Portfolio](https://impradeepkumargupta.github.io/)
 
@@ -53,15 +53,17 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 
 ### EDUCATION
 
+<table width="100%">
 <tr>
 <td align="left"><strong>B. Tech, Computer Science and Engineering</strong> — Vellore Institute of Technology (VIT), Vellore, India</td>
 <td align="right"><strong>2019 – 2023</strong></td>
 </tr>
 
 <tr>
-<td align="left"><strong>High School</strong> — Tilottama Higher Secondary School,Butwal, Nepal</td>
+<td align="left"><strong>High School</strong> — Tilottama Higher Secondary School, Butwal, Nepal</td>
 <td align="right"><strong>2017 – 2019</strong></td>
 </tr>
+</table>
 
 ---
 
