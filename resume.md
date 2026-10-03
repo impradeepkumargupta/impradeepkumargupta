@@ -60,7 +60,7 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 </tr>
 
 <tr>
-<td align="left"><strong>High School</strong> — Tilottama Higher Secondary School, Butwal, Nepal</td>
+<td align="left"><strong>12th, Science, High School</strong> — Tilottama Higher Secondary School, Butwal, Nepal</td>
 <td align="right"><strong>2017 – 2019</strong></td>
 </tr>
 </table>
