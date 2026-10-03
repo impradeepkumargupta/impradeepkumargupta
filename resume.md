@@ -19,12 +19,37 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 
 ### TECHNICAL SKILLS
 
-**Containers & Orchestration:** Kubernetes, Docker, Docker Compose, Docker Swarm, Application Deployment  
-**Cloud Platform:** Google Cloud Platform (GCP) — GKE, Compute Engine, Cloud SQL, Pub/Sub, BigQuery, Cloud Functions, Cloud Monitoring  
-**DevOps / CI-CD & IaC:** GitHub, Git, GitOps (Basic), Terraform  
-**Observability & Monitoring:** Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix, Alerting, Incident Analysis  
-**Scripting & Linux:** Python, Bash/Shell Scripting, RHEL Administration, Networking, Troubleshooting  
-**Security & Compliance:** DevSecOps Practices, Security Validation in CI/CD, Deployment Standardization
+<table width="100%">
+<tr>
+<td width="28%"><strong>Containers & Orchestration</strong></td>
+<td>Kubernetes, Docker, Docker Compose, Docker Swarm, Application Deployment</td>
+</tr>
+
+<tr>
+<td><strong>Cloud Platform</strong></td>
+<td>Google Cloud Platform (GCP) — GKE, Compute Engine, Cloud SQL, Pub/Sub, BigQuery, Cloud Functions, Cloud Monitoring</td>
+</tr>
+
+<tr>
+<td><strong>DevOps / CI-CD & IaC</strong></td>
+<td>GitHub, Git, GitOps (Basic), Terraform</td>
+</tr>
+
+<tr>
+<td><strong>Observability & Monitoring</strong></td>
+<td>Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix, Alerting, Incident Analysis</td>
+</tr>
+
+<tr>
+<td><strong>Scripting & Linux</strong></td>
+<td>Python, Bash/Shell Scripting, RHEL Administration, Networking, Troubleshooting</td>
+</tr>
+
+<tr>
+<td><strong>Security & Compliance</strong></td>
+<td>DevSecOps Practices, Security Validation in CI/CD, Deployment Standardization</td>
+</tr>
+</table>
 
 ---
 ### PROFESSIONAL EXPERIENCE
