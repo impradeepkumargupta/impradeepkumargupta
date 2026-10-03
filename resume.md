@@ -57,6 +57,7 @@ DevOps Engineer with 4+ years of experience designing, implementing, and maintai
 <td align="left"><strong>B. Tech, Computer Science and Engineering</strong> — Vellore Institute of Technology (VIT), Vellore, India</td>
 <td align="right"><strong>2019 – 2023</strong></td>
 </tr>
+
 <tr>
 <td align="left"><strong>High School</strong> — Tilottama Higher Secondary School,Butwal, Nepal</td>
 <td align="right"><strong>2017 – 2019</strong></td>
