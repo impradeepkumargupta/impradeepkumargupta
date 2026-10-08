@@ -8,8 +8,6 @@
 
 Cloud Platform and DevOps Engineer at **Ericsson** with 4+ years of experience building and operating production-grade cloud infrastructure, Kubernetes platforms, automation, CI/CD, and observability.
 
-Currently exploring the intersection of **AI + Cloud + Platform Engineering + DevOps**.
-
 [Portfolio](https://impradeepkumargupta.github.io) · [LinkedIn](https://www.linkedin.com/in/impradeepkumargupta) · [GitHub](https://github.com/impradeepkumargupta) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=sq7O_j4AAAAJ)
 
 </div>
@@ -26,7 +24,7 @@ I'm also continuously exploring what becomes possible when **AI is combined with
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Ericsson — DevOps Engineer
 
@@ -73,37 +71,6 @@ I'm also continuously exploring what becomes possible when **AI is combined with
 
 ---
 
-## AI × Cloud × Platform Engineering
-
-I'm interested in the practical intersection of **AI, cloud infrastructure, platform engineering, and DevOps**.
-
-I'm exploring how AI can improve:
-
-- Infrastructure automation
-- Kubernetes operations
-- CI/CD workflows
-- Observability and incident analysis
-- Cloud cost optimization
-- Developer platforms
-- Engineering productivity
-
-My goal is to understand where AI can move engineering from **automation toward intelligent automation**.
-
----
-
-## Currently Learning
-
-- AI for Cloud & DevOps
-- AI-assisted Platform Engineering
-- Kubernetes for AI workloads
-- AI agents & engineering automation
-
-## Current Interests
-
-**AI × Cloud · Platform Engineering · Kubernetes · AIOps · Developer Platforms**
-
----
-
 ## Certifications
 
 - **Google Cloud Certified — Professional Cloud Architect**
@@ -144,11 +111,3 @@ Open to **remote opportunities, international roles, relocation, and employer-sp
 - **Email:** [impradeepkumargupta@gmail.com](mailto:impradeepkumargupta@gmail.com)
 
 ---
-
-<div align="center">
-
-**Cloud · DevOps · Platform Engineering · AI**
-
-*Building reliable cloud platforms today. Exploring intelligent engineering platforms for tomorrow.*
-
-</div>
