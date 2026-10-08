@@ -6,8 +6,6 @@ Cloud Platform and DevOps Engineer at Ericsson with 4+ years of experience build
 
 My primary expertise is in Google Cloud Platform, Google Kubernetes Engine, Kubernetes, Terraform, Docker, Linux, CI/CD, Python, and production infrastructure operations.
 
-I focus on building reliable, repeatable, and maintainable platforms that enable engineering teams to deploy and operate software safely and efficiently.
-
 [Portfolio](https://impradeepkumargupta.github.io) · [LinkedIn](https://www.linkedin.com/in/impradeepkumargupta) · [GitHub](https://github.com/impradeepkumargupta) · [ORCID](https://orcid.org/0009-0009-1496-1156) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=sq7O_j4AAAAJ)
 
 ---
@@ -36,123 +34,26 @@ I focus on building reliable, repeatable, and maintainable platforms that enable
 
 | Area | Impact |
 |---|---|
-| Production infrastructure | 1,000+ customer nodes |
-| Application platform | 100+ microservices |
-| Cloud migration | 250+ virtual machines migrated to GCP |
-| Cost optimization | Approximately 30% infrastructure cost reduction |
-| Container platform | Production Kubernetes and GKE |
-| Infrastructure automation | Terraform, Python, Bash |
-| Observability | ELK Stack, Grafana, Zabbix |
+| Production Scale | 1,000+ customer nodes · 100+ microservices |
+| Cloud Migration | 250+ VMs migrated to GCP |
+| Cost Optimization | ~30% infrastructure cost reduction |
+| Platform | Kubernetes · GKE · Docker |
+| Automation | Terraform · Python · Bash |
+| Observability | ELK · Grafana · Zabbix |
 
 ---
 
 ## Technical Expertise
 
-### Cloud
-
-- Google Cloud Platform
-- Google Kubernetes Engine
-- Compute Engine
-- Cloud SQL
-- Cloud Storage
-- Pub/Sub
-- BigQuery
-- Cloud Functions
-- Cloud Monitoring
-- Cloud Logging
-- IAM
-- Cloud networking
-- AWS fundamentals
-
-### Kubernetes & Containers
-
-- Kubernetes
-- GKE
-- Docker
-- Docker Compose
-- Docker Swarm
-- Helm
-- Containerized application deployment
-- Kubernetes workloads, services, scaling, and networking
-- Ingress and container orchestration
-
-### Infrastructure as Code & Automation
-
-- Terraform
-- Terraform modules
-- Remote state
-- Ansible
-- Infrastructure provisioning
-- Configuration management
-- Python
-- Bash / Shell scripting
-
-### CI/CD & Delivery
-
-- Git
-- GitHub
-- GitHub Actions
-- Git-based delivery workflows
-- GitOps fundamentals
-- Automated build, validation, and deployment
-- Argo CD fundamentals
-
-### Observability & Reliability
-
-- Elasticsearch
-- Logstash
-- Kibana
-- Grafana
-- Zabbix
-- Google Cloud Operations
-- Logging and monitoring
-- Alerting
-- Incident analysis
-- Production troubleshooting
-
-### Systems & Networking
-
-- Linux
-- RHEL
-- TCP/IP
-- DNS
-- HTTP
-- VPC networking
-- Filesystems
-- Process and package management
-- Permissions
-- Infrastructure troubleshooting
-
-### Security
-
-- DevSecOps practices
-- Secure software delivery
-- Security validation in CI/CD
-- Least-privilege IAM
-- Cloud security fundamentals
-
----
-
-## Engineering Focus
-
-I work primarily on infrastructure and platforms that improve:
-
-- Reliability and availability
-- Scalability and performance
-- Deployment consistency
-- Operational efficiency
-- Observability and incident response
-- Infrastructure repeatability
-- Security validation
-- Controlled change and operational stability
-
-My engineering approach is straightforward:
-
-> Automate repeatable work.  
-> Observe systems in production.  
-> Prefer reliable defaults and controlled change.  
-> Build platforms that are easier to operate.  
-> Improve delivery speed without compromising reliability or security.
+| Domain | Technologies |
+|---|---|
+| Cloud | GCP · GKE · Compute Engine · Cloud SQL · Cloud Storage · Pub/Sub · BigQuery · IAM |
+| Kubernetes | Kubernetes · GKE · Docker · Helm · Docker Compose · Docker Swarm |
+| IaC & Automation | Terraform · Ansible · Python · Bash · Configuration Management |
+| CI/CD | Git · GitHub · GitHub Actions · GitOps · Argo CD |
+| Observability | ELK Stack · Grafana · Zabbix · Cloud Monitoring · Logging · Alerting |
+| Systems | Linux · RHEL · TCP/IP · DNS · HTTP · VPC · Troubleshooting |
+| Security | DevSecOps · CI/CD Security · Least-Privilege IAM · Cloud Security |
 
 ---
 
@@ -184,21 +85,6 @@ Technical notes and learning material covering Google Cloud and related cloud in
 
 ---
 
-## Current Technical Direction
-
-I am continuing to deepen my expertise in:
-
-- Advanced Google Cloud architecture and platform design
-- Kubernetes and GKE platform engineering
-- Terraform-based infrastructure automation
-- CI/CD and GitOps
-- Cloud-native observability and reliability engineering
-- AWS architecture fundamentals
-- AI-enabled infrastructure automation
-- Platform operations and MLOps foundations
-
----
-
 ## Certifications
 
 - Google Cloud Certified — Professional Cloud Architect
@@ -218,14 +104,7 @@ I am continuing to deepen my expertise in:
 **Vellore Institute of Technology, Vellore, India**  
 2019 – 2023 · CGPA: 7.92 / 10
 
-Relevant areas:
-
-- Cloud Computing
-- Distributed Systems
-- Operating Systems
-- Computer Networks
-- Databases
-- Algorithms
+Relevant areas: Cloud Computing, Distributed Systems, Operating Systems, Computer Networks, Databases, Algorithms.
 
 ---
 
@@ -263,6 +142,4 @@ Open to remote opportunities, relocation, and international roles with appropria
 - Portfolio: https://impradeepkumargupta.github.io
 - LinkedIn: https://www.linkedin.com/in/impradeepkumargupta
 - GitHub: https://github.com/impradeepkumargupta
-- ORCID: https://orcid.org/0009-0009-1496-1156
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=sq7O_j4AAAAJ
 - Email: impradeepkumargupta@gmail.com
