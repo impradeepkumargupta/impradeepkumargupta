@@ -6,8 +6,7 @@ Cloud Platform and DevOps Engineer at Ericsson with 4+ years of experience build
 
 My primary expertise is in Google Cloud Platform, Google Kubernetes Engine, Kubernetes, Terraform, Docker, Linux, CI/CD, Python, and production infrastructure operations.
 
-[Portfolio](https://impradeepkumargupta.github.io) · [LinkedIn](https://www.linkedin.com/in/impradeepkumargupta) · [GitHub](https://github.com/impradeepkumargupta) · [ORCID](https://orcid.org/0009-0009-1496-1156) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=sq7O_j4AAAAJ)
-
+[Portfolio](https://impradeepkumargupta.github.io) · [LinkedIn](https://www.linkedin.com/in/impradeepkumargupta) · [GitHub](https://github.com/impradeepkumargupta) 
 ---
 
 ## Professional Experience
