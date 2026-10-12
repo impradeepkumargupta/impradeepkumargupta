@@ -52,7 +52,6 @@ My primary expertise is in Google Cloud Platform, Google Kubernetes Engine, Kube
 | CI/CD | Git · GitHub · GitHub Actions · GitOps · Argo CD |
 | Observability | ELK Stack · Grafana · Zabbix · Cloud Monitoring · Logging · Alerting |
 | Systems | Linux · RHEL · TCP/IP · DNS · HTTP · VPC · Troubleshooting |
-| Security | DevSecOps · CI/CD Security · Least-Privilege IAM · Cloud Security |
 
 ---
 
