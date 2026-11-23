@@ -1,6 +1,6 @@
 # Pradeep Kumar Gupta
 
-## Cloud Platform & DevOps Engineer
+## GCP Cloud and DevOps Engineer
 
 Cloud Platform and DevOps Engineer at Ericsson with 4+ years of experience building and operating production-grade cloud infrastructure, Kubernetes platforms, infrastructure automation, CI/CD systems, and observability.
 
